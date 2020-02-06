@@ -43,3 +43,8 @@ lookup['kc'] = 'chiefs'
 lookup['ne'] = 'patriots'
 lookup['la'] = 'chargers'
 lookup['suck'] = 'raiders'
+
+x = 0
+while(x<5):
+        x+=1
+        print("x = " + str(x))
